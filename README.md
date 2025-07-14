@@ -13,14 +13,15 @@ python -m venv .venv
 # Pip command to install packages
 pip install -r requirements.txt
 ```
+* To view the data from scraped by the script, you can visit the associated 'kaggle.com' link listed below
 
 ## Running the Script
 * Running the .ipynb wil require you the ability to run the notebook through Jupyter Lab or to convert the file using the following command
 ``` Bash
-jupyter nbconvert --execture <path-to-.ipynb-file>
+jupyter nbconvert --execute <path-to-.ipynb-file>
 ```
 
 ## Currently Supported Final Fantasy Scrape
 * Final Fantasy 1
-    * Weapons
-    * Armors
+    * Weapons - Data: https://www.kaggle.com/datasets/arkkanelkhatib/final-fantasy-1-weapons
+    * Armors - Data: https://www.kaggle.com/datasets/arkkanelkhatib/final-fantasy-1-armors
