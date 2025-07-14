@@ -15,11 +15,9 @@ pip install -r requirements.txt
 ```
 
 ## Running the Script
-* Running the .ipynb wil require you the ability to run the notebook through Jupyter Lab
+* Running the .ipynb wil require you the ability to run the notebook through Jupyter Lab or to convert the file using the following command
 ``` Bash
-pip install jupyterlab # Installation
-
-jupyter lab # Running of Jupyter Lab server
+jupyter nbconvert --execture <path-to-.ipynb-file>
 ```
 
 ## Currently Supported Final Fantasy Scrape
