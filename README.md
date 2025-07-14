@@ -17,3 +17,4 @@ pip3 install -r requirements.txt
 ## Currently Supported Final Fantasy Scrape
 * Final Fantasy 1
     * Weapons
+    * Armors
