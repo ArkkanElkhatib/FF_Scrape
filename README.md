@@ -8,10 +8,18 @@
 ``` Bash
 # For an isolated Python environment run the following 
 # prior to running pip command
-python3 -m venv .venv
+python -m venv .venv
 
 # Pip command to install packages
-pip3 install -r requirements.txt
+pip install -r requirements.txt
+```
+
+## Running the Script
+* Running the .ipynb wil require you the ability to run the notebook through Jupyter Lab
+``` Bash
+pip install jupyterlab # Installation
+
+jupyter lab # Running of Jupyter Lab server
 ```
 
 ## Currently Supported Final Fantasy Scrape
