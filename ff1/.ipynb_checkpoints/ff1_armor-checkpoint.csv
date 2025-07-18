@@ -1,0 +1,76 @@
+Name,Jobs,Defense,Evasion,Weight,Cost,Armor Type,Acquisition,Effect,Description,Alternative Name,Buy,Find,Drop,Bonus Content
+Aegis Shield,Kn,16,0,0,N/A,Sheilds,,"Resistance: Poison, Stone.",A shield that guards against stone and poison.,,,Mirage Tower,,False
+Angel's Ring,"RM, RW, WM, WW, BM, BW",8,0,1,N/A,Gloves,,No Effect,Ring fashioned after an angel's feather.,,,,,True
+Bard's Tunic,"Wa, Kn, Th, Ni, RM, RW, BM, BW, Mo, Ma",20,0,3,"67,300 gil",Body Armor,"Buy: Whisperwind Cove (B1-B9 Town) Find: Hellfire Chasm, Whisperwind Cove Drop: 2-Headed Dragon",Resistance: Silence.,"A light, loose-fitting tunic.",,Whisperwind Cove (B1-B9 Town),"Hellfire Chasm, Whisperwind Cove",2-Headed Dragon,True
+Black Cowl,"Th, Ni",8,10,1,N/A,Helmet,,"Resistance: Sleep. +3 Strength, Agility, & Stamina.",Black hood brought from a distant land.,,,"Earthgift Shrine, Whisperwind Cove",,True
+Black Garb,"Th, Ni",40,0,2,N/A,Body Armor,Find: Whisperwind Cove (x2),"+1 Strength, +10 Agility.","Light, durable suit from a distant land.",,,Whisperwind Cove (x2),,True
+Black Robe,BW,24,0,2,"25,000 gilSells for 1",Body Armor,Buy: Whisperwind Cove (Mage Town) Find: Flying Fortress,"Resistance: Ice, Time. Casts Blizzara when used as an item.",A robe that guards against ice and time irregularities; casts Blizzara when used.,,Whisperwind Cove (Mage Town),Flying Fortress,,True
+Bronze Gloves ,"Wa, Kn, Ni",2,0,3,160 gil (Easy) 200 gil (Normal),Gloves,,No Effect,Gloves made of bronze.,Copper,Melmond,Elven Castle (Mystic Key),,False
+Buckler,"Wa, Kn, Th, Ni, RM, RW",2,0,0,"2,000 gil (Easy) 2,500 gil (Normal)",Sheilds,,No Effect,A small shield.,,Crescent Lake,,,False
+Chain Mail,"Wa, Kn, Ni, RM, RW",15,0,15,65 gil (Easy) 80 gil (Normal),Body Armor,"Buy: Cornelia, Pravoka",No Effect,Mail of interwoven chain links.,,"Cornelia, Pravoka",,,False
+Clothes,"Wa, Kn, Th, Ni, RM, RW, BM, BW, Mo, Ma",1,0,2,8 gil (Easy) 10 gil (Normal),Body Armor,"Buy: Cornelia Find: Cavern of Ice, Flying Fortress",No Effect,Ordinary clothing.,,Cornelia,"Cavern of Ice, Flying Fortress",,False
+Copper Armlet,"Wa, Kn, Th, Ni, RM, RW, BM, BW, Mo, Ma",4,0,1,"800 gil (Easy) 1,000 gil (Normal)",Body Armor,Buy: Elfheim Find: Marsh Cave,No Effect,An armlet crafted from copper.,,Elfheim,Marsh Cave,,False
+Crystal Gloves,"Kn, Ni",10,15,3,N/A,Gloves,,Resistance: Stone. +3 Intelligence.,"Gloves of crystal, crafted long ago.",,,Whisperwind Cove,,True
+Crystal Helm,"Kn, Ni",10,15,3,N/A,Helmet,,Resistance: Stone. +3 Intelligence.,"A helm of crystal, crafted long ago.",,,Whisperwind Cove,,True
+Crystal Mail,"Kn, Ni",44,0,10,N/A,Body Armor,Find: Whisperwind Cove,"Resistance: Blind, Silence, Stone. +3 Intelligence.","Mail of crystal, crafted long ago.",,,Whisperwind Cove,,True
+Crystal Ring,"Kn, Ni, Ma, RW",9,0,1,N/A,Gloves,,"Resistance: Sleep, Paralysis. +5 Agility.","A ring of crystal, crafted long ago.",,,Lifespring Grotto (x2),,True
+Crystal Shield,"Kn, Ni",15,45,0,N/A,Sheilds,,Resistance: Stone.,"A shield of crystal, crafted long ago.",,,"Lifespring Grotto, Whisperwind Cove",,True
+Diamond Armlet ,"Wa, Kn, Th, Ni, RM, RW, BM, BW, Mo, Ma",34,0,1,N/A,Body Armor,Find: Sunken Shrine,No Effect,An armlet adorned with diamonds.,Opal,,Sunken Shrine,,False
+Diamond Armor ,Kn,42,0,10,N/A,Body Armor,Find: Sunken Shrine,Resistance: Lightning.,Armor crafted from diamond that guards against lightning.,Opal,,Sunken Shrine,,False
+Diamond Gloves ,Kn,8,0,3,N/A,Gloves,,No Effect,Gloves made of diamond.,Opal,,"Sunken Shrine, Flying Fortress",,False
+Diamond Helm ,Kn,8,0,3,N/A,Helmet,,No Effect,A helm made of diamond.,Opal,,Sunken Shrine,,False
+Diamond Shield ,Kn,16,0,0,N/A,Sheilds,,Resistance: Lightning.,A shield made of diamond that guards against lightning.,Opal,,"Sunken Shrine, Flying Fortress",,False
+Dragon Mail,Kn,42,0,10,N/A,Body Armor,Find: Mirage Tower,"Resistance: Fire, Ice, Lightning.",Mail fashioned from dragon scales that guards against fire and ice.,,,Mirage Tower,,False
+Elven Cloak,"Wa, Kn, Th, Ni, RM, RW, BM, BW",9,0,1,"55,800 gil",Sheilds,,+1 Agility & Intelligence.,A cloak enchanted with elven magic.,,Whisperwind Cove (B31-B39 Town),"Earthgift Shrine, Whisperwind Cove",,True
+Feathered Cap,"Wa, Kn, Th, Ni, RM, RW",4,10,1,N/A,Helmet,,No Effect,A light cap woven of silk.,,,Lifespring Grotto,,True
+Flame Mail,"Wa, Kn, Ni",34,0,10,N/A,Body Armor,Find: Mount Gulg,Resistance: Ice.,Mail infused with the power of fire that guards against ice.,,,Mount Gulg,,False
+Flame Shield,"Wa, Kn, Ni",12,0,0,N/A,Sheilds,,Resistance: Ice.,A shield imbued with the power of fire that guards against ice.,,,Mount Gulg,,False
+Gaia Gear,"BM, BW",35,0,2,N/A,Body Armor,Find: Lifespring Grotto Drop: Undergrounder,"Resistance: Quake, Stone.",A robe instilled with the earth's grace.,,,Lifespring Grotto,Undergrounder,True
+Gauntlets ,"Kn, Ni, RW",6,0,3,"15,000 gil",Gloves,,Casts Thundara when used as an item.,Gloves that cast Thundara when used.,Zeus,Whisperwind Cove (Mage Town),Citadel of Trials,,True
+Genji Armor,"Wa, Kn, Ni",35,0,10,N/A,Body Armor,Find: Whisperwind Cove Drop: Warmech,"Resistance: Poison, Stone, Death. +5 Strength, +3 Agility & Intelligence, +2 Stamina.",Heavy armor crafted in a distant land.,,,Whisperwind Cove,Warmech,True
+Genji Gloves,"Wa, Kn, Ni",9,15,2,N/A,Gloves,,"Resistance: Poison, Stone.",Heavy gloves crafted in a distant land.,,,,Gilgamesh,True
+Genji Helm,"Wa, Kn, Th, Ni",9,15,3,N/A,Helmet,,"Resistance: Poison, Stone. +3 Intelligence.",A heavy helm crafted in a distant land.,,,Whisperwind Cove,Typhon,True
+Genji Shield,"Wa, Kn, Ni",14,50,8,N/A,Sheilds,,"Resistance: Poison, Stone.",Heavy shield crafted in a distant land.,,,Lifespring Grotto,,True
+Giant's Gloves ,"Kn, Ni, RW",6,0,3,N/A,Gloves,,Casts Saber when used as an item.,Gloves that cast Saber when used.,Power,,Sunken Shrine,,False
+Great Helm ,"Wa, Kn, Ni",5,0,5,360 gil (Easy) 450 gil (Normal),Helmet,,No Effect,A helm that covers the entire head.,Iron,Melmond,Mount Duergar,,False
+Healing Helm,"Kn, Ni",6,0,3,N/A,Helmet,,Casts Heal when used as an item.,A helm that casts Heal when used.,,,"Mirage Tower, Flying Fortress",,False
+Helm ,"Wa, Kn, Ni",3,0,3,80 gil (Easy) 100 gil (Normal),Helmet,,No Effect,A small helm.,Wooden,Elfheim,,,False
+Hero's Shield,"Kn, Ni",16,40,0,N/A,Sheilds,,Resistance: All elements & statuses.,Shield that wards off status ailments.,,,Lifespring Grotto,,True
+Ice Armor,"Wa, Kn, Ni",34,0,10,N/A,Body Armor,Find: Cavern of Ice,Resistance: Fire.,Armor infused with the power of ice that guards against fire.,,,Cavern of Ice,,False
+Ice Shield,"Wa, Kn, Ni",12,0,0,N/A,Sheilds,,Resistance: Fire.,A shield imbued with the power of ice that guards against fire.,,,Cavern of Ice,Winter Wolf,False
+Iron Armor,"Wa, Kn, Ni",24,0,23,640 gil (Easy) 800 gil (Normal),Body Armor,"Buy: Pravoka, Elfheim Find: Castle Cornelia, Marsh Cave",No Effect,Armor made of thinly hammered iron.,,"Pravoka, Elfheim","Castle Cornelia, Marsh Cave",,False
+Iron Shield,"Wa, Kn, Ni",4,0,0,80 gil (Easy) 100 gil (Normal),Sheilds,,No Effect,A shield wrought from iron.,,Elfheim,Castle Cornelia,,False
+Kenpogi,"Mo, Ma",28,0,1,N/A,Body Armor,"Find: Earthgift Shrine, Lifespring Grotto, Whisperwind Cove",+3 Strength.,An outfit favored by martial artists.,,,"Earthgift Shrine, Lifespring Grotto, Whisperwind Cove",,True
+Knight's Armor ,"Wa, Kn",34,0,33,"36,000 gil (Easy) 45,000 gil (Normal)",Body Armor,Buy: Melmond,No Effect,Armor crafted from steel plate.,Steel,Melmond,,,False
+Leather Armor,"Wa, Kn, Th, Ni, Mo, Ma, RM, RW",4,0,8,40 gil (Easy) 50 gil (Normal),Body Armor,"Buy: Cornelia, Pravoka",No Effect,Armor made of hardened leather.,,"Cornelia, Pravoka",,,False
+Leather Cap,"Wa, Kn, Th, Ni, RM, RW, BM, BW, Mo, Ma",1,0,1,65 gil (Easy) 80 gil (Normal),Helmet,,No Effect,A cap made of leather.,,Elfheim,Chaos Shrine,,False
+Leather Gloves,"Wa, Kn, Th, Ni, RM, RW, BM, BW, Mo, Ma",1,0,1,50 gil (Easy) 60 gil (Normal),Gloves,,No Effect,Gloves made of leather.,,Pravoka,,,False
+Leather Shield ,"Wa, Kn, Ni",2,0,0,12 gil (Easy) 15 gil (Normal),Sheilds,,No Effect,A shield made of hardened leather.,Wooden,Pravoka,Cavern of Earth,Pirate,False
+Light Robe,"WM, WW",35,0,2,N/A,Body Armor,Find: Whisperwind Cove,+5 Intelligence.,A robe imbued with the spirit of light.,,,Whisperwind Cove,,True
+Lordly Robes,"WM, WW",37,5,1,N/A,Body Armor,Drop: Chronodia (Lich & Marilith),"Resistance: Stone, Death. +20 Intelligence, 10% HP Regen.",A robe immersed in holy power.,,,,Chronodia (Lich & Marilith),True
+Master Shield,"Wa, Kn, RM, RW",19,30,0,N/A,Sheilds,,Resistance: All elements & statuses. +1 Agility & Intelligence.,A shield once held by a great hero.,,,Labyrinth of Time,Chronodia (Kraken),True
+Maximillian,"Wa, Kn, RM, RW",55,0,10,N/A,Body Armor,Drop: Chronodia,"+5 Strength, +10 Stamina.",Suit of armor made of pure steel.,,,,Chronodia,True
+Mythril Gloves ,"Wa, Kn, Ni, RW",6,0,3,"2,000 gil (Easy) 2,500 gil (Normal)",Gloves,,No Effect,Gloves made of mythril.,Silver,Crescent Lake,"Mount Gulg, Cavern of Ice",,False
+Mythril Helm ,"Wa, Kn, Ni",6,0,3,"2,000 gil (Easy) 2,500 gil (Normal)",Helmet,,No Effect,A helm wrought from mythril.,Silver,Crescent Lake,"Titan's Cave, Mount Gulg, Flying Fortress",,False
+Mythril Mail ,"Wa, Kn, Ni, RM, RW",18,0,8,"6,000 gil (Easy) 7,500 gil (Normal)",Body Armor,Buy: Crescent Lake Find: Mount Duergar,No Effect,Mail crafted from mythril.,Silver,Crescent Lake,Mount Duergar,,False
+Mythril Shield ,"Wa, Kn, Ni",8,0,0,"2,000 gil (Easy) 2,500 gil (Normal)",Sheilds,,No Effect,A shield crafted from mythril.,Silver,Crescent Lake,"Cavern of Earth, Mount Gulg",,False
+Power Vest,"Mo, Ma",38,0,1,N/A,Body Armor,Find: Lifespring Grotto,"+15 Strength, +1 Agility & Stamina.",A vest woven with a unique thread.,,,Lifespring Grotto,,True
+Protect Cloak,"Wa, Kn, Th, Ni, RM, RW, BM, BW",8,0,2,"20,000 gil",Sheilds,,No Effect,A large cloak worn over armor.,,Whisperwind Cove (Mage Town),"Flying Fortress, Chaos Shrine (Past)",,True
+Protect Ring,"Wa, Kn, Th, Ni, RM, RW, BM, BW, Mo, Ma",8,0,1,"16,000 gil (Easy) 20,000 gil (Normal)",Gloves,,Resistance: Instant Death.,A ring that guards against instant death.,,Gaia,"Flying Fortress (x2), Chaos Shrine (Past)",,False
+Red Cap,"RM, RW",8,0,1,N/A,Helmet,,"+4 Strength, +3 Agility, +2 Stamina, +25% Max HP.",A cap that awakens latent abilities.,,,Whisperwind Cove,,True
+Red Jacket,"Th, Ni, RM, RW",24,0,2,N/A,Body Armor,Find: Whisperwind Cove,"Resistance: Fire. +5 Strength, +2 Agility, +1 Intelligence, +4 Stamina.",A jacket that protects against flame.,,,Whisperwind Cove,,True
+Ribbon,"Wa, Kn, Th, Ni, RM, RW, BM, BW, Mo, Ma",1,0,1,N/A,Helmet,,Resistance: All elements & statuses.,A ribbon that guards against elemental attacks and status effects.,,,"Sunken Shrine, Waterfall Cavern, Flying Fortress, Hellfire Chasm (Last Floor)",,True
+Ruby Armlet ,"Wa, Kn, Th, Ni, RM, RW, BM, BW, Mo, Ma",24,0,1,"40,000 gil (Easy) 50,000 gil (Normal)",Body Armor,Buy: Gaia Find: Citadel of Trials,No Effect,An armlet ornamented with rubies.,Gold,Gaia,Citadel of Trials,,False
+Sage's Mitre,"WM, WW, BM, BW",5,0,1,"45,200 gil",Helmet,,"+5 Intelligence, +10% Max MP.",A hat made of enchanted cloth.,,Whisperwind Cove (B31-B39 Town),"Hellfire Chasm, Lifespring Grotto, Whisperwind Cove",,True
+Sage's Surplice,"RM, RW, WM, WW, BM, BW",25,0,2,"70,000 gil",Body Armor,"Buy: Whisperwind Cove (B11-B19 Town) Find: Lifespring Grotto, Hellfire Chasm",+5 Intelligence.,A robe that enhances intelligence.,,Whisperwind Cove (B11-B19 Town),"Lifespring Grotto, Hellfire Chasm",,True
+Shadow Mask,"Th, Ni",3,6,2,N/A,Helmet,,+30 Agility.,Mask that is a testament to darkness.,,,,Chronodia (Tiamat),True
+Silver Armlet,"Wa, Kn, Th, Ni, RM, RW, BM, BW, Mo, Ma",15,0,1,"4,000 gil (Easy) 5,000 gil (Normal)",Body Armor,Buy: Melmond Find: Marsh Cave,No Effect,An armlet of worked silver.,,Melmond,Marsh Cave,,False
+Steel Gloves ,"Wa, Kn, Ni",4,0,5,600 gil (Easy) 750 gil (Normal),Gloves,,No Effect,Gloves made of steel.,Iron,Melmond,"Western Keep (Mystic Key), Citadel of Trials",,False
+Survival Vest,"Th, Ni, Mo, Ma",45,0,1,N/A,Body Armor,Drop: Chronodia (Kraken & Tiamat),"Resistance: Sleep, Poison. +15 Agility & Stamina.",A vest that musters strength.,,,,Chronodia (Kraken & Tiamat),True
+Thief's Armlet,"Th, Ni",30,0,1,N/A,Body Armor,Find: Whisperwind Cove,+5 Agility.,An armlet that enhances agility.,,,Whisperwind Cove,,True
+Thief's Gloves,"Th, Ni",6,10,1,N/A,Gloves,,+5 Agility.,Gloves that enhance agility.,,,Hellfire Chasm,,True
+Tiger Mask,"Kn, Ni, Ma",8,0,2,N/A,Helmet,,"+3 Strength, +2 Agility, +1 Stamina.",A light mask made in a tiger's likeness.,,,"Lifespring Grotto, Whisperwind Cove",,True
+Twist Headband,"Th, Ni, Mo, Ma",3,0,1,N/A,Helmet,,"+10 Strength, +1 Agility, +2 Stamina.",A headband favored by martial artists.,,,Hellfire Chasm,,True
+White Robe,WW,24,0,2,"25,000 gilSells for 1",Body Armor,Buy: Whisperwind Cove (Mage Town) Find: Flying Fortress,"Resistance: Fire, Instant Death. Casts Invisira when used as an item.",A robe that guards against fire and instant death; casts Invisira when used.,,Whisperwind Cove (Mage Town),Flying Fortress,,True
+Wizard's Hat,"RM, RW, WM, WW, BM, BW",4,0,1,"46,600 gil",Helmet,,+5 Intelligence.,A traditional hat brimming with magic.,,Whisperwind Cove (B21-B29 Town),Whisperwind Cove,,True
+Zephyr Cape,"Wa, Kn, Th, Ni, RM, RW, BM, BW",4,10,1,"51,000 gil",Sheilds,,No Effect,A cape alive with the spirit of wind.,,Whisperwind Cove (B21-B29 Town),Whisperwind Cove,Death Elemental,True

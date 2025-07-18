@@ -1,69 +1,69 @@
-Name,Jobs,Atk,Acc,Crit,Weapon Type,Cost,Effect,Description,Alternative Name,Buy,Find,Drop,Bonus Content
-Assassin Dagger,"Wa, Kn, Th, Ni, RM, RW, BW",30,40,35,Daggers,N/A,"Casts Kill when used as an item. +10 Evasion, +3 Agility, +2 Intelligence.",A dagger that casts Kill when used.,N/A,N/A,Whisperwind Cove,N/A,True
-Asura,"Wa, Kn, Th, Ni, RM, RW",25,25,25,Katanas,N/A,No Effect,A sword whose name embodies battle.,N/A,N/A,Lifespring Grotto (B15),Pharaoh,True
-Barbarian's Sword,"Wa, Kn, RM, RW",125,20,30,Swords,N/A,"+18 Strength, +13 Stamina.",A sturdy sword with a wide blade.,N/A,N/A,N/A,Chronodia (Four Fiends and Chaos with many weapons),True
-Battle Axe ,"Wa, Kn, Ni",16,5,7,Axes,450 (Easy) 550 (Normal),No Effect,An axe made for battle.,Hand,Pravoka,N/A,N/A,False
-Braveheart,"Wa, Kn, Ni",30,52,28,Swords,N/A,Casts Confuse when used as an item.,A sword that casts Confuse when used.,N/A,N/A,N/A,"Barbariccia, Yamatano Orochi",True
-Broadsword ,"Wa, Kn, Ni, RM, RW",15,10,6,Swords,450 (Easy) 550 (Normal),No Effect,"Sword with a wide, double-edged blade.",Short,Pravoka,Marsh Cave,N/A,False
-Cat Claws ,"Kn, Ni, RW, BW",22,35,35,Daggers,"52,000 (Easy) 65,000 (Normal)",No Effect,A weapon with razor-sharp blades.,CatClaw,Gaia,N/A,N/A,False
-Coral Sword,"Wa, Kn, Th, Ni, RM, RW",19,15,25,Swords,N/A,Strong vs Aquatic enemies.,A sword that is effective against aquatic enemies.,N/A,N/A,Cavern of Earth,N/A,False
-Crosier ,"Wa, Kn, Ni, Mo, Ma",14,0,11,Staves,160 (Easy) 200 (Normal),No Effect,A staff topped with an iron ring.,Iron,"Elfheim, Melmond",Castle Cornelia (Mystic Key),Wraith,False
-Dagger ,"Wa, Kn, Th, Ni, RM, RW, BM, BW",7,10,10,Daggers,140 (Easy) 175 (Normal),No Effect,A large knife.,Large,Elfheim,Marsh Cave,N/A,False
-Dark Claymore,"Wa, Kn",40,5,30,Swords,N/A,No Effect,A sword with a shimmering black blade.,N/A,N/A,Whisperwind Cove,Mythril Golem,True
-Deathbringer,RW,33,20,29,Swords,N/A,"Casts Death when used as an item. +5 Strength, Agility, Intelligence & Stamina.",A sword that casts Death when used.,N/A,N/A,Lifespring Grotto,"Black Knight, Reaper",True
-Defender ,"Kn, Ni, RW",30,35,32,Swords,N/A,Casts Blink when used as an item.,A sword that casts Blink when used.,Defense,N/A,Waterfall Cavern,N/A,False
-Duel Rapier,"Wa, Kn, Th, Ni, RM, RW",27,30,26,Swords,75900,+80 Evasion.,A rapier refined for battle.,N/A,Whisperwind Cove (B1-B9 Town),Whisperwind Cove,N/A,True
-Enhancer,"Wa, Kn, Ni, RM, RW",28,25,18,Swords,N/A,+7 Intelligence.,An unusual rapier infused with magic.,N/A,N/A,Whisperwind Cove,Duel Knight,True
-Excalibur ,Kn,45,35,39,Swords,N/A,Strong vs all elemental weaknesses and enemy types.,A sword crafted from a legendary metal; effective against all types of enemies.,Xcalber,N/A,N/A,N/A,False
-Falchion ,"Wa, Kn, Th, Ni, RM, RW",15,10,15,Katanas,360 (Easy) 450 (Normal),No Effect,A sword that widens toward its tip.,Falchon,Melmond,Western Keep (Mystic Key),N/A,False
-Flame Sword,"Wa, Kn, Ni, RM, RW",26,20,20,Swords,N/A,Fire-elemental. Strong vs Undead and Regenerative enemies pre-Pixel Remaster.,A sword imbued with the power of fire.,N/A,N/A,Cavern of Ice,N/A,False
-Gigantaxe,"Wa, Kn, Ni",42,0,26,Axes,N/A,"+4 Strength, -4 Intelligence.",An axe boasting superb attack power.,N/A,N/A,Lifespring Grotto,N/A,True
-Gladius,"Wa, Kn, Th, Ni, RM, RW, BM, BW",23,30,26,Daggers,73900,+10 Evasion.,A dagger crafted to be feather-light.,N/A,Whisperwind Cove (B1-B9 Town),Whisperwind Cove (x2),N/A,True
-Golden Staff,WW,30,30,30,Staves,N/A,+20 Intelligence.,A staff that enhances intelligence.,N/A,N/A,N/A,Chronodia (Marilith),True
-Great Axe,"Wa, Kn, Ni",22,5,14,Axes,N/A,No Effect,A large axe made for battle.,N/A,N/A,Giant's Cave,Minotaur Zombie,False
-Great Sword ,"Wa, Kn, Ni, RM, RW",21,20,23,Swords,N/A,Strong vs Giant enemies.,A sword that is effective against giants.,"Giant, Claymore",N/A,Mount Gulg,N/A,False
-Hammer ,"Wa, Kn, Ni, WM, WW",9,0,5,Hammers,8 (Easy) 10 (Normal),No Effect,A hammer made for battle.,Iron,"Cornelia, Pravoka",N/A,N/A,False
-Hands,"Wa, Kn, Th, Ni, RM, RW, BM, BW, Mo, Ma",N/A,N/A,N/A,Fists,N/A,No Effect,N/A,N/A,N/A,N/A,N/A,False
-Healing Staff,"Ni, WM, WW",6,0,30,Staves,25000,Casts Heal when used as an item.,A staff that casts Heal when used.,N/A,Whisperwind Cove (Mage Town),Citadel of Trials,N/A,True
-Ice Brand,"Wa, Kn, Ni, RM, RW",29,25,21,Swords,N/A,Ice-elemental.,A sword imbued with the power of ice.,N/A,N/A,"Mount Gulg, Citadel of Trials",N/A,False
-Iron Nunchaku ,"Ni, Mo, Ma",16,0,9,Nunchakus,160 (Easy) 200 (Normal),No Effect,Nunchaku made of iron.,Iron,Elfheim,N/A,N/A,False
-Judgment Staff,BW,25,25,20,Staves,N/A,Casts Flare when used as an item. +3 Intelligence.,A staff that casts Flare when used.,N/A,N/A,N/A,Atomos,True
-Kikuichimonji,"Wa, Kn, Th, Ni, RM, RW",35,25,30,Katanas,N/A,+5 Strength.,A chrysanthemum adorns its scabbard.,N/A,N/A,N/A,"Kraken (Sunken Shrine), Rubicante",True
-Knife ,"Wa, Kn, Th, Ni, RM, RW, BM, BW",5,10,2,Daggers,4 (Easy) 5 (Normal),No Effect,A small knife.,Small,Cornelia,N/A,Minotaur,False
-Kotetsu,"Wa, Kn, Th, Ni, RM, RW",22,20,21,Katanas,55900,No Effect,A small katana designed for easy use.,N/A,Whisperwind Cove (B21-B29 Town),N/A,Cerberus,True
-Light Axe,"Wa, Kn, Ni",28,15,29,Axes,10000,Casts Diara when used as an item. Strong vs Undead enemies.,An axe that is effective against the undead; casts Diara when used.,N/A,Whisperwind Cove (Mage Town),Sunken Shrine (x2),N/A,True
-Lightbringer,RW,48,40,37,Swords,N/A,"Casts Holy when used as an item. +50 Evasion, +7 Strength, Agility, Intelligence & Stamina.",A sword that casts Holy when used.,N/A,N/A,N/A,Death Gaze,True
-Longsword,"Wa, Kn, Ni, RM, RW",20,10,13,Swords,"1,200 (Easy) 1,500 (Normal)",No Effect,"A large, double-edged sword.",N/A,Melmond,N/A,Garland,False
-Lust Dagger,"Ni, BW",50,70,40,Daggers,N/A,+20 Evasion & Agility.,A knife that enhances agility.,N/A,N/A,N/A,N/A,True
-Mage Masher,"Wa, Kn, Th, Ni, RM, RW, BM, BW",20,30,25,Daggers,69700,Casts Silence when used as an item. +5 Intelligence.,A knife that casts Silence when used.,N/A,Whisperwind Cove (B11-B19 Town),Whisperwind Cove,N/A,True
-Mage's Staff,"Ni, BM, BW",12,10,31,Staves,25000,Casts Fira when used as an item.,A staff that casts Fira when used.,N/A,Whisperwind Cove (Mage Town),Sunken Shrine,N/A,True
-Masamune ,All Jobs,56,50,40,Katanas,N/A,No Effect,A legendary katana without match.,Masmune,N/A,Chaos Shrine (Past),N/A,False
-Murasame,Ni,50,10,50,Katanas,N/A,"Casts Protect when used as an item. +40 Evasion, +5 Strength, Intelligence & Stamina, -5 Agility.",A sword also known as the Demonblade.,N/A,N/A,N/A,Omega,True
-Mythril Axe ,"Wa, Kn, Ni",25,10,19,Axes,"3,600 (Easy) 4,500 (Normal)",No Effect,An axe wrought from mythril.,Silver,Crescent Lake,Mount Gulg,N/A,False
-Mythril Hammer ,"Wa, Kn, Ni, WM, WW",12,5,18,Hammers,"2,000 (Easy) 2,500 (Normal)",No Effect,A hammer wrought from mythril.,Silver,Crescent Lake,Elven Castle (Mystic Key),N/A,False
-Mythril Knife ,"Wa, Kn, Th, Ni, RM, RW, BM, BW",10,15,16,Daggers,640 (Easy) 800 (Normal),No Effect,A knife wrought from mythril.,Silver,Crescent Lake,"Castle Cornelia (Mystic Key), Mount Duergar, Marsh Cave",N/A,False
-Mythril Sword ,"Wa, Kn, Ni, RM, RW",23,15,17,Swords,"3,200 (Easy) 4,000 (Normal)",No Effect,A sword wrought from mythril.,Silver,"Elfheim, Crescent Lake",N/A,Astos,True
-Nunchaku ,"Ni, Mo, Ma",12,0,1,Nunchakus,8 (Easy) 10 (Normal),No Effect,Wooden nunchaku.,Wooden,Cornelia,N/A,N/A,False
-Ogrekiller,"Wa, Kn, Ni",30,0,20,Axes,37100,Strong vs Giants.,An axe effective against giants.,N/A,Whisperwind Cove (B31-B39 Town),Whisperwind Cove (x2),N/A,True
-Orichalcum,"Wa, Kn, Th, Ni, RM, RW, BW",28,35,31,Daggers,N/A,Drains HP on hit.,A knife with a gleaming golden blade.,N/A,N/A,"Lifespring Grotto, Whisperwind Cove",N/A,True
-Power Staff,"Wa, Kn, Ni, Mo, Ma, WM, WW, BM, BW",12,0,28,Staves,N/A,No Effect,A staff with good attack power.,N/A,N/A,Western Keep (Mystic Key),Rhyos,False
-Ragnarok,Kn,55,40,39,Swords,N/A,"Casts Flare when used as an item. +30 Evasion, +7 Strength, Intelligence & Stamina, +3 Agility.",A sword etched with words of the gods.,N/A,N/A,N/A,Shinryu,False
-Rapier,"Wa, Kn, Th, Ni, RM, RW",9,5,4,Swords,8 (Easy) 10 (Normal),No Effect,A sword with a slender blade.,N/A,Cornelia,N/A,N/A,False
-Razer ,"Kn, Ni, RW",22,20,37,Swords,N/A,Casts Scourge when used as an item.,A saber that casts Scourge when used.,"Bane, Venom Blade",N/A,Flying Fortress,N/A,False
-Rune Axe,"Wa, Kn, Ni",40,20,0,Axes,N/A,"Casts Curaga when used as an item. +3 Intelligence. In exchange for 25 MP, all hits become critical (no effect if MP is insufficient).",An axe that casts Curaga when used.,N/A,N/A,Whisperwind Cove,Prototype,True
-Rune Blade ,"Wa, Kn, Th, Ni, RM, RW",18,15,27,Swords,N/A,Strong vs Mage and Magic enemies.,A sword that is effective against spellcasters.,Rune,N/A,Chaos Shrine (Mystic Key),N/A,False
-Rune Staff,WW,25,25,20,Staves,N/A,Casts Healara when used as an item. +10 Intelligence.,A staff that casts Healara when used.,N/A,N/A,N/A,"Orthros, Tiamat (Chaos Shrine)",True
-Saber ,"Wa, Kn, Th, Ni, RM, RW",13,5,12,Swords,360 (Easy) 450 (Normal),No Effect,A long sword made for piercing.,Sabre,"Elfheim, Melmond",Castle Cornelia (Mystic Key),Buccaneer,False
-Sage's Staff,"RM, RW, WM, WW, BM, BW",20,10,15,Staves,N/A,Casts Life when used as an item. +15 Intelligence. Doubles damage caused by Holy.,A staff that casts Life when used.,N/A,N/A,Whisperwind Cove,Squidraken,True
-Sasuke's Blade ,Ni,33,35,38,Katanas,N/A,No Effect,A small katana used by ninja.,"Katana, Sasuke",N/A,"Flying Fortress, Chaos Shrine (Past)",N/A,False
-Scimitar,"Wa, Kn, Th, Ni, RM, RW",10,10,8,Katanas,160 (Easy) 200 (Normal),No Effect,A sword with a curved blade.,N/A,Pravoka,N/A,N/A,False
-Staff ,"Wa, Kn, Ni, RM, RW, BM, BW, Mo, Ma",6,0,3,Staves,4 (Easy) 5 (Normal),No Effect,A wooden staff.,Wooden,Cornelia,"Cavern of Earth, Mount Gulg",Zombie,False
-Sun Blade,"Wa, Kn, Ni, RM, RW",32,30,24,Swords,N/A,Strong vs Undead enemies.,A sword that is effective against the undead.,N/A,N/A,Mirage Tower,N/A,False
-Thor's Hammer,"Kn, Ni, WW",18,15,36,Hammers,40000,Casts Thundara when used as an item.,A hammer that casts Thundara when used.,N/A,Whisperwind Cove (Mage Town),Mirage Tower,N/A,True
-Ultima Weapon,"Kn, Ni, Ma, RW, WW, BW",Current HP/10Maximum Atk 100,Current HP/10Maximum Acc 100,50,Swords,N/A,No Effect,A sword bound to its wielder's HP.,N/A,N/A,Whisperwind Cove (Last Floor),N/A,True
-Viking Axe,"Wa, Kn, Ni",25,10,16,Axes,43300,-10 Evasion.,An axe once wielded by vikings.,N/A,Whisperwind Cove (B11-B19 Town),Whisperwind Cove,N/A,True
-Vorpal Sword,"Kn, Ni, RW",24,25,34,Swords,N/A,No Effect,A very sharp crescent blade.,N/A,N/A,Mirage Tower,N/A,False
-War Hammer,"Kn, Ni, WW",30,0,15,Hammers,38000,No Effect,A hammer that strikes hard.,N/A,Whisperwind Cove (B31-B39 Town),Hellfire Chasm (B9),Sekhret,True
-Werebuster ,"Wa, Kn, Ni, RM, RW",18,15,26,Swords,N/A,Strong vs Beast enemies (Werebeasts prior to Pixel Remaster),A sword that is effective against beasts.,"Were, Werebane",N/A,Chaos Shrine (Mystic Key),N/A,False
-Wizard's Staff ,BW,15,15,33,Staves,50000,Casts Confuse when used as an item.,A staff that casts Confuse when used.,"Wizard, Spellbinder",Whisperwind Cove (Mage Town),Waterfall Cavern,N/A,True
-Wyrmkiller ,"Wa, Kn, Th, Ni, RM, RW",19,15,22,Swords,N/A,Strong vs Dragon enemies.,A sword that is effective against dragons.,Dragon,N/A,Mount Duergar,White Shark,False
+Name,Jobs,Atk,Acc,Crit,Weapon Type,Cost,Effect,Description,Alternative Name,Buy,Find,Drop,Bonus Content,Cost (Easy),Cost (Normal)
+Assassin Dagger,"Wa, Kn, Th, Ni, RM, RW, BW",30,40,35,Daggers,N/A,"Casts Kill when used as an item. +10 Evasion, +3 Agility, +2 Intelligence.",A dagger that casts Kill when used.,N/A,N/A,Whisperwind Cove,N/A,True,N/A,N/A
+Asura,"Wa, Kn, Th, Ni, RM, RW",25,25,25,Katanas,N/A,No Effect,A sword whose name embodies battle.,N/A,N/A,Lifespring Grotto (B15),Pharaoh,True,N/A,N/A
+Barbarian's Sword,"Wa, Kn, RM, RW",125,20,30,Swords,N/A,"+18 Strength, +13 Stamina.",A sturdy sword with a wide blade.,N/A,N/A,N/A,Chronodia (Four Fiends and Chaos with many weapons),True,N/A,N/A
+Battle Axe ,"Wa, Kn, Ni",16,5,7,Axes,450 (Easy) 550 (Normal),No Effect,An axe made for battle.,Hand,Pravoka,N/A,N/A,False,450,550
+Braveheart,"Wa, Kn, Ni",30,52,28,Swords,N/A,Casts Confuse when used as an item.,A sword that casts Confuse when used.,N/A,N/A,N/A,"Barbariccia, Yamatano Orochi",True,N/A,N/A
+Broadsword ,"Wa, Kn, Ni, RM, RW",15,10,6,Swords,450 (Easy) 550 (Normal),No Effect,"Sword with a wide, double-edged blade.",Short,Pravoka,Marsh Cave,N/A,False,450,550
+Cat Claws ,"Kn, Ni, RW, BW",22,35,35,Daggers,"52,000 (Easy) 65,000 (Normal)",No Effect,A weapon with razor-sharp blades.,CatClaw,Gaia,N/A,N/A,False,"52,000","65,000"
+Coral Sword,"Wa, Kn, Th, Ni, RM, RW",19,15,25,Swords,N/A,Strong vs Aquatic enemies.,A sword that is effective against aquatic enemies.,N/A,N/A,Cavern of Earth,N/A,False,N/A,N/A
+Crosier ,"Wa, Kn, Ni, Mo, Ma",14,0,11,Staves,160 (Easy) 200 (Normal),No Effect,A staff topped with an iron ring.,Iron,"Elfheim, Melmond",Castle Cornelia (Mystic Key),Wraith,False,160,200
+Dagger ,"Wa, Kn, Th, Ni, RM, RW, BM, BW",7,10,10,Daggers,140 (Easy) 175 (Normal),No Effect,A large knife.,Large,Elfheim,Marsh Cave,N/A,False,140,175
+Dark Claymore,"Wa, Kn",40,5,30,Swords,N/A,No Effect,A sword with a shimmering black blade.,N/A,N/A,Whisperwind Cove,Mythril Golem,True,N/A,N/A
+Deathbringer,RW,33,20,29,Swords,N/A,"Casts Death when used as an item. +5 Strength, Agility, Intelligence & Stamina.",A sword that casts Death when used.,N/A,N/A,Lifespring Grotto,"Black Knight, Reaper",True,N/A,N/A
+Defender ,"Kn, Ni, RW",30,35,32,Swords,N/A,Casts Blink when used as an item.,A sword that casts Blink when used.,Defense,N/A,Waterfall Cavern,N/A,False,N/A,N/A
+Duel Rapier,"Wa, Kn, Th, Ni, RM, RW",27,30,26,Swords,75900,+80 Evasion.,A rapier refined for battle.,N/A,Whisperwind Cove (B1-B9 Town),Whisperwind Cove,N/A,True,75900,75900
+Enhancer,"Wa, Kn, Ni, RM, RW",28,25,18,Swords,N/A,+7 Intelligence.,An unusual rapier infused with magic.,N/A,N/A,Whisperwind Cove,Duel Knight,True,N/A,N/A
+Excalibur ,Kn,45,35,39,Swords,N/A,Strong vs all elemental weaknesses and enemy types.,A sword crafted from a legendary metal; effective against all types of enemies.,Xcalber,N/A,N/A,N/A,False,N/A,N/A
+Falchion ,"Wa, Kn, Th, Ni, RM, RW",15,10,15,Katanas,360 (Easy) 450 (Normal),No Effect,A sword that widens toward its tip.,Falchon,Melmond,Western Keep (Mystic Key),N/A,False,360,450
+Flame Sword,"Wa, Kn, Ni, RM, RW",26,20,20,Swords,N/A,Fire-elemental. Strong vs Undead and Regenerative enemies pre-Pixel Remaster.,A sword imbued with the power of fire.,N/A,N/A,Cavern of Ice,N/A,False,N/A,N/A
+Gigantaxe,"Wa, Kn, Ni",42,0,26,Axes,N/A,"+4 Strength, -4 Intelligence.",An axe boasting superb attack power.,N/A,N/A,Lifespring Grotto,N/A,True,N/A,N/A
+Gladius,"Wa, Kn, Th, Ni, RM, RW, BM, BW",23,30,26,Daggers,73900,+10 Evasion.,A dagger crafted to be feather-light.,N/A,Whisperwind Cove (B1-B9 Town),Whisperwind Cove (x2),N/A,True,73900,73900
+Golden Staff,WW,30,30,30,Staves,N/A,+20 Intelligence.,A staff that enhances intelligence.,N/A,N/A,N/A,Chronodia (Marilith),True,N/A,N/A
+Great Axe,"Wa, Kn, Ni",22,5,14,Axes,N/A,No Effect,A large axe made for battle.,N/A,N/A,Giant's Cave,Minotaur Zombie,False,N/A,N/A
+Great Sword ,"Wa, Kn, Ni, RM, RW",21,20,23,Swords,N/A,Strong vs Giant enemies.,A sword that is effective against giants.,"Giant, Claymore",N/A,Mount Gulg,N/A,False,N/A,N/A
+Hammer ,"Wa, Kn, Ni, WM, WW",9,0,5,Hammers,8 (Easy) 10 (Normal),No Effect,A hammer made for battle.,Iron,"Cornelia, Pravoka",N/A,N/A,False,8,10
+Hands,"Wa, Kn, Th, Ni, RM, RW, BM, BW, Mo, Ma",N/A,N/A,N/A,Fists,N/A,No Effect,N/A,N/A,N/A,N/A,N/A,False,N/A,N/A
+Healing Staff,"Ni, WM, WW",6,0,30,Staves,25000,Casts Heal when used as an item.,A staff that casts Heal when used.,N/A,Whisperwind Cove (Mage Town),Citadel of Trials,N/A,True,25000,25000
+Ice Brand,"Wa, Kn, Ni, RM, RW",29,25,21,Swords,N/A,Ice-elemental.,A sword imbued with the power of ice.,N/A,N/A,"Mount Gulg, Citadel of Trials",N/A,False,N/A,N/A
+Iron Nunchaku ,"Ni, Mo, Ma",16,0,9,Nunchakus,160 (Easy) 200 (Normal),No Effect,Nunchaku made of iron.,Iron,Elfheim,N/A,N/A,False,160,200
+Judgment Staff,BW,25,25,20,Staves,N/A,Casts Flare when used as an item. +3 Intelligence.,A staff that casts Flare when used.,N/A,N/A,N/A,Atomos,True,N/A,N/A
+Kikuichimonji,"Wa, Kn, Th, Ni, RM, RW",35,25,30,Katanas,N/A,+5 Strength.,A chrysanthemum adorns its scabbard.,N/A,N/A,N/A,"Kraken (Sunken Shrine), Rubicante",True,N/A,N/A
+Knife ,"Wa, Kn, Th, Ni, RM, RW, BM, BW",5,10,2,Daggers,4 (Easy) 5 (Normal),No Effect,A small knife.,Small,Cornelia,N/A,Minotaur,False,4,5
+Kotetsu,"Wa, Kn, Th, Ni, RM, RW",22,20,21,Katanas,55900,No Effect,A small katana designed for easy use.,N/A,Whisperwind Cove (B21-B29 Town),N/A,Cerberus,True,55900,55900
+Light Axe,"Wa, Kn, Ni",28,15,29,Axes,10000,Casts Diara when used as an item. Strong vs Undead enemies.,An axe that is effective against the undead; casts Diara when used.,N/A,Whisperwind Cove (Mage Town),Sunken Shrine (x2),N/A,True,10000,10000
+Lightbringer,RW,48,40,37,Swords,N/A,"Casts Holy when used as an item. +50 Evasion, +7 Strength, Agility, Intelligence & Stamina.",A sword that casts Holy when used.,N/A,N/A,N/A,Death Gaze,True,N/A,N/A
+Longsword,"Wa, Kn, Ni, RM, RW",20,10,13,Swords,"1,200 (Easy) 1,500 (Normal)",No Effect,"A large, double-edged sword.",N/A,Melmond,N/A,Garland,False,"1,200","1,500"
+Lust Dagger,"Ni, BW",50,70,40,Daggers,N/A,+20 Evasion & Agility.,A knife that enhances agility.,N/A,N/A,N/A,N/A,True,N/A,N/A
+Mage Masher,"Wa, Kn, Th, Ni, RM, RW, BM, BW",20,30,25,Daggers,69700,Casts Silence when used as an item. +5 Intelligence.,A knife that casts Silence when used.,N/A,Whisperwind Cove (B11-B19 Town),Whisperwind Cove,N/A,True,69700,69700
+Mage's Staff,"Ni, BM, BW",12,10,31,Staves,25000,Casts Fira when used as an item.,A staff that casts Fira when used.,N/A,Whisperwind Cove (Mage Town),Sunken Shrine,N/A,True,25000,25000
+Masamune ,All Jobs,56,50,40,Katanas,N/A,No Effect,A legendary katana without match.,Masmune,N/A,Chaos Shrine (Past),N/A,False,N/A,N/A
+Murasame,Ni,50,10,50,Katanas,N/A,"Casts Protect when used as an item. +40 Evasion, +5 Strength, Intelligence & Stamina, -5 Agility.",A sword also known as the Demonblade.,N/A,N/A,N/A,Omega,True,N/A,N/A
+Mythril Axe ,"Wa, Kn, Ni",25,10,19,Axes,"3,600 (Easy) 4,500 (Normal)",No Effect,An axe wrought from mythril.,Silver,Crescent Lake,Mount Gulg,N/A,False,"3,600","4,500"
+Mythril Hammer ,"Wa, Kn, Ni, WM, WW",12,5,18,Hammers,"2,000 (Easy) 2,500 (Normal)",No Effect,A hammer wrought from mythril.,Silver,Crescent Lake,Elven Castle (Mystic Key),N/A,False,"2,000","2,500"
+Mythril Knife ,"Wa, Kn, Th, Ni, RM, RW, BM, BW",10,15,16,Daggers,640 (Easy) 800 (Normal),No Effect,A knife wrought from mythril.,Silver,Crescent Lake,"Castle Cornelia (Mystic Key), Mount Duergar, Marsh Cave",N/A,False,640,800
+Mythril Sword ,"Wa, Kn, Ni, RM, RW",23,15,17,Swords,"3,200 (Easy) 4,000 (Normal)",No Effect,A sword wrought from mythril.,Silver,"Elfheim, Crescent Lake",N/A,Astos,True,"3,200","4,000"
+Nunchaku ,"Ni, Mo, Ma",12,0,1,Nunchakus,8 (Easy) 10 (Normal),No Effect,Wooden nunchaku.,Wooden,Cornelia,N/A,N/A,False,8,10
+Ogrekiller,"Wa, Kn, Ni",30,0,20,Axes,37100,Strong vs Giants.,An axe effective against giants.,N/A,Whisperwind Cove (B31-B39 Town),Whisperwind Cove (x2),N/A,True,37100,37100
+Orichalcum,"Wa, Kn, Th, Ni, RM, RW, BW",28,35,31,Daggers,N/A,Drains HP on hit.,A knife with a gleaming golden blade.,N/A,N/A,"Lifespring Grotto, Whisperwind Cove",N/A,True,N/A,N/A
+Power Staff,"Wa, Kn, Ni, Mo, Ma, WM, WW, BM, BW",12,0,28,Staves,N/A,No Effect,A staff with good attack power.,N/A,N/A,Western Keep (Mystic Key),Rhyos,False,N/A,N/A
+Ragnarok,Kn,55,40,39,Swords,N/A,"Casts Flare when used as an item. +30 Evasion, +7 Strength, Intelligence & Stamina, +3 Agility.",A sword etched with words of the gods.,N/A,N/A,N/A,Shinryu,False,N/A,N/A
+Rapier,"Wa, Kn, Th, Ni, RM, RW",9,5,4,Swords,8 (Easy) 10 (Normal),No Effect,A sword with a slender blade.,N/A,Cornelia,N/A,N/A,False,8,10
+Razer ,"Kn, Ni, RW",22,20,37,Swords,N/A,Casts Scourge when used as an item.,A saber that casts Scourge when used.,"Bane, Venom Blade",N/A,Flying Fortress,N/A,False,N/A,N/A
+Rune Axe,"Wa, Kn, Ni",40,20,0,Axes,N/A,"Casts Curaga when used as an item. +3 Intelligence. In exchange for 25 MP, all hits become critical (no effect if MP is insufficient).",An axe that casts Curaga when used.,N/A,N/A,Whisperwind Cove,Prototype,True,N/A,N/A
+Rune Blade ,"Wa, Kn, Th, Ni, RM, RW",18,15,27,Swords,N/A,Strong vs Mage and Magic enemies.,A sword that is effective against spellcasters.,Rune,N/A,Chaos Shrine (Mystic Key),N/A,False,N/A,N/A
+Rune Staff,WW,25,25,20,Staves,N/A,Casts Healara when used as an item. +10 Intelligence.,A staff that casts Healara when used.,N/A,N/A,N/A,"Orthros, Tiamat (Chaos Shrine)",True,N/A,N/A
+Saber ,"Wa, Kn, Th, Ni, RM, RW",13,5,12,Swords,360 (Easy) 450 (Normal),No Effect,A long sword made for piercing.,Sabre,"Elfheim, Melmond",Castle Cornelia (Mystic Key),Buccaneer,False,360,450
+Sage's Staff,"RM, RW, WM, WW, BM, BW",20,10,15,Staves,N/A,Casts Life when used as an item. +15 Intelligence. Doubles damage caused by Holy.,A staff that casts Life when used.,N/A,N/A,Whisperwind Cove,Squidraken,True,N/A,N/A
+Sasuke's Blade ,Ni,33,35,38,Katanas,N/A,No Effect,A small katana used by ninja.,"Katana, Sasuke",N/A,"Flying Fortress, Chaos Shrine (Past)",N/A,False,N/A,N/A
+Scimitar,"Wa, Kn, Th, Ni, RM, RW",10,10,8,Katanas,160 (Easy) 200 (Normal),No Effect,A sword with a curved blade.,N/A,Pravoka,N/A,N/A,False,160,200
+Staff ,"Wa, Kn, Ni, RM, RW, BM, BW, Mo, Ma",6,0,3,Staves,4 (Easy) 5 (Normal),No Effect,A wooden staff.,Wooden,Cornelia,"Cavern of Earth, Mount Gulg",Zombie,False,4,5
+Sun Blade,"Wa, Kn, Ni, RM, RW",32,30,24,Swords,N/A,Strong vs Undead enemies.,A sword that is effective against the undead.,N/A,N/A,Mirage Tower,N/A,False,N/A,N/A
+Thor's Hammer,"Kn, Ni, WW",18,15,36,Hammers,40000,Casts Thundara when used as an item.,A hammer that casts Thundara when used.,N/A,Whisperwind Cove (Mage Town),Mirage Tower,N/A,True,40000,40000
+Ultima Weapon,"Kn, Ni, Ma, RW, WW, BW",Current HP/10Maximum Atk 100,Current HP/10Maximum Acc 100,50,Swords,N/A,No Effect,A sword bound to its wielder's HP.,N/A,N/A,Whisperwind Cove (Last Floor),N/A,True,N/A,N/A
+Viking Axe,"Wa, Kn, Ni",25,10,16,Axes,43300,-10 Evasion.,An axe once wielded by vikings.,N/A,Whisperwind Cove (B11-B19 Town),Whisperwind Cove,N/A,True,43300,43300
+Vorpal Sword,"Kn, Ni, RW",24,25,34,Swords,N/A,No Effect,A very sharp crescent blade.,N/A,N/A,Mirage Tower,N/A,False,N/A,N/A
+War Hammer,"Kn, Ni, WW",30,0,15,Hammers,38000,No Effect,A hammer that strikes hard.,N/A,Whisperwind Cove (B31-B39 Town),Hellfire Chasm (B9),Sekhret,True,38000,38000
+Werebuster ,"Wa, Kn, Ni, RM, RW",18,15,26,Swords,N/A,Strong vs Beast enemies (Werebeasts prior to Pixel Remaster),A sword that is effective against beasts.,"Were, Werebane",N/A,Chaos Shrine (Mystic Key),N/A,False,N/A,N/A
+Wizard's Staff ,BW,15,15,33,Staves,50000,Casts Confuse when used as an item.,A staff that casts Confuse when used.,"Wizard, Spellbinder",Whisperwind Cove (Mage Town),Waterfall Cavern,N/A,True,50000,50000
+Wyrmkiller ,"Wa, Kn, Th, Ni, RM, RW",19,15,22,Swords,N/A,Strong vs Dragon enemies.,A sword that is effective against dragons.,Dragon,N/A,Mount Duergar,White Shark,False,N/A,N/A
