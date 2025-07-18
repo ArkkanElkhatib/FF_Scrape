@@ -60,7 +60,7 @@ Scimitar,"Wa, Kn, Th, Ni, RM, RW",10,10,8,Katanas,160 (Easy) 200 (Normal),No Eff
 Staff ,"Wa, Kn, Ni, RM, RW, BM, BW, Mo, Ma",6,0,3,Staves,4 (Easy) 5 (Normal),No Effect,A wooden staff.,Wooden,Cornelia,"Cavern of Earth, Mount Gulg",Zombie,False,4,5
 Sun Blade,"Wa, Kn, Ni, RM, RW",32,30,24,Swords,N/A,Strong vs Undead enemies.,A sword that is effective against the undead.,N/A,N/A,Mirage Tower,N/A,False,N/A,N/A
 Thor's Hammer,"Kn, Ni, WW",18,15,36,Hammers,40000,Casts Thundara when used as an item.,A hammer that casts Thundara when used.,N/A,Whisperwind Cove (Mage Town),Mirage Tower,N/A,True,40000,40000
-Ultima Weapon,"Kn, Ni, Ma, RW, WW, BW",Current HP/10Maximum Atk 100,Current HP/10Maximum Acc 100,50,Swords,N/A,No Effect,A sword bound to its wielder's HP.,N/A,N/A,Whisperwind Cove (Last Floor),N/A,True,N/A,N/A
+Ultima Weapon,"Kn, Ni, Ma, RW, WW, BW",Current HP/10 (Max Atk 100),Current HP/10 (Max Acc 100),50,Swords,N/A,No Effect,A sword bound to its wielder's HP.,N/A,N/A,Whisperwind Cove (Last Floor),N/A,True,N/A,N/A
 Viking Axe,"Wa, Kn, Ni",25,10,16,Axes,43300,-10 Evasion.,An axe once wielded by vikings.,N/A,Whisperwind Cove (B11-B19 Town),Whisperwind Cove,N/A,True,43300,43300
 Vorpal Sword,"Kn, Ni, RW",24,25,34,Swords,N/A,No Effect,A very sharp crescent blade.,N/A,N/A,Mirage Tower,N/A,False,N/A,N/A
 War Hammer,"Kn, Ni, WW",30,0,15,Hammers,38000,No Effect,A hammer that strikes hard.,N/A,Whisperwind Cove (B31-B39 Town),Hellfire Chasm (B9),Sekhret,True,38000,38000
